@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-assignment"
+  "defaultProject": "angular-assignment",
+  "cli": {
+    "analytics": "dcd79d7b-c9d6-463e-80e4-ae05f1ee21b1"
+  }
 }
